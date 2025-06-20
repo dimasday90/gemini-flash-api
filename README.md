@@ -10,6 +10,7 @@ This is a practice repository for learning Gemini AI, initiated with model 2.5 F
   - [Add Gemini to your Node.js Project](https://medium.com/@yousafmaaz.kakakhel/building-a-basic-api-with-node-js-and-gemini-ai-1ed6571be3e6)
   - [Google Gemini with NodeJS](https://rishavd3v.hashnode.dev/google-gemini-with-nodejs)
 - Postman for testing API (can use alternative like Thunder Client or REST Client in VS Code extensions)
+- Once you `npm install`, create .env file at the root folder to store `GEMINI_API_KEY` and `PORT`
 
 ## Setup Parameter in Gemini configuration
 | Parameter   |  Purpose                                              | Value range |
